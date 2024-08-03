@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shivaji</h1>
 <h3 align="center">Interested in Backend Engineering and Deep Learning</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivaji43&label=Profile%20views&color=0e75b6&style=flat" alt="shivaji43" /> </p>
+
 - 🔭 I’m currently working on [Peer to Peer Lending](https://github.com/shivaji43/p2p-lending)
 
 - 🌱 I’m currently learning **React,MongoDb,Express**
@@ -10,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raut_madridista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raut_madridista" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivajiraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivajiraut" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/shivajijraut/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shivajijraut/" height="30" width="40" /></a>
 </p>
 
