@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivaji</h1>
-<h3 align="center">Interested in Backend Engineering and Deep Learning</h3>
+<h3 align="center">Interested in Backend Engineering and WEB3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivaji43&label=Profile%20views&color=0e75b6&style=flat" alt="shivaji43" /> </p>
 
